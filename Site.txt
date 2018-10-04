@@ -1,0 +1,4 @@
+https://proglib.io/p/diabetes-network/
+https://habr.com/post/321834/
+https://www.asozykin.ru/deep_learning/2017/06/20/Image-Classification-Using-Neural-Networks.html
+https://vc.ru/selectel/41002-instrukciya-sozdanie-neyronnoy-seti-bez-navykov-programmirovaniya
