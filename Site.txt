@@ -8,4 +8,5 @@ https://vc.ru/selectel/41002-instrukciya-sozdanie-neyronnoy-seti-bez-navykov-pro
 https://cyberleninka.ru/article/v/upravlenie-setyu-peredachi-dannyh-s-pomoschyu-iskusstvennyh-neyronnyh-setey
 https://www.intuit.ru/studies/courses/607/463/lecture/10434?page=3
 http://pt.journal.kh.ua/2012/2/1/122_pavlenko_hopfild.pdf
+https://habr.com/post/274597/     (Пример который можно применить в качестве базы, шарик двигается по тому пути, который ему нужен, стараясь обходить препятсвтия - подобие машрутизации)
 
