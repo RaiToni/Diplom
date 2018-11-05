@@ -2,3 +2,8 @@ https://proglib.io/p/diabetes-network/
 https://habr.com/post/321834/
 https://www.asozykin.ru/deep_learning/2017/06/20/Image-Classification-Using-Neural-Networks.html
 https://vc.ru/selectel/41002-instrukciya-sozdanie-neyronnoy-seti-bez-navykov-programmirovaniya
+
+
+// Обновление на 05.11.2018
+https://cyberleninka.ru/article/v/upravlenie-setyu-peredachi-dannyh-s-pomoschyu-iskusstvennyh-neyronnyh-setey
+https://www.intuit.ru/studies/courses/607/463/lecture/10434?page=3
